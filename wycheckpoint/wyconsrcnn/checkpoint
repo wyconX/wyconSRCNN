@@ -1,0 +1,6 @@
+model_checkpoint_path: "SRCNN.model-8600000"
+all_model_checkpoint_paths: "SRCNN.model-8598000"
+all_model_checkpoint_paths: "SRCNN.model-8598500"
+all_model_checkpoint_paths: "SRCNN.model-8599000"
+all_model_checkpoint_paths: "SRCNN.model-8599500"
+all_model_checkpoint_paths: "SRCNN.model-8600000"
